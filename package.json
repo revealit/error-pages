@@ -1,0 +1,17 @@
+{
+  "author": "Mikkel Hoegh <mikkel@hoegh.org> (http://mikkel.hoegh.org/)",
+  "name": "error-pages",
+  "description": "Generate static error pages for use with nginx.",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/revealit/error-pages.git"
+  },
+  "main": "generate.js",
+  "engines": {
+    "node": "~0.6.15"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
