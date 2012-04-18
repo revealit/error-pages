@@ -11,7 +11,9 @@
   "engines": {
     "node": "~0.6.15"
   },
-  "dependencies": {},
+  "dependencies": {
+    "jade": "0.24.x"
+  },
   "devDependencies": {},
   "optionalDependencies": {}
 }

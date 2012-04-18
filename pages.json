@@ -1,0 +1,30 @@
+{
+  "400": {
+    "title": "Bad Request",
+    "explanation": "The request sent to the server could not be understood due to malformed syntax. This is likely not your fault if you’re reading this, but rather the programmer that coded the program you’re using."
+  },
+  "401": {
+    "title": "Unauthorized",
+    "explanation": "You need to authenticate to view this page."
+  },
+  "403": {
+    "title": "Forbidden",
+    "explanation": "You are not allowed to access this page."
+  },
+  "404": {
+    "title": "Not Found",
+    "explanation": "The server cannot find the page you requested. This might be due to an error in the URI for this page, or due to the document being moved or for other reasons no longer available."
+  },
+  "410": {
+    "title": "Gone",
+    "explanation": "The page you were trying to view is no longer available at this address, and will not return."
+  },
+  "500": {
+    "title": "Internal Server Error",
+    "explanation": "The web server encountred an error while trying to generate the page you requested. This is likely not your fault, and once the responsible persons get their act together, this page should return."
+  },
+  "502": {
+    "title": "Bad Gateway",
+    "explanation": "Another server was responsible for fulfilling this request. Alas, it let us all down. Our sincere apologies. This is likely not your fault, and once the responsible persons get their act together, this page should return."
+  }
+}
